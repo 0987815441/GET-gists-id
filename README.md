@@ -1,0 +1,2 @@
+# ID
+GET /gists/:id
