@@ -1,2 +1,2 @@
-# ID
+Hello wold
 GET /gists/:id
